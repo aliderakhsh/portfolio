@@ -1894,3 +1894,14 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+/* Hide Portfolio Navbar Item */
+.hidden-nav-item {
+  display: none;
+}
+
+/* Hide Portfolio Article Section */
+article.portfolio {
+  display: none !important;
+}
+
